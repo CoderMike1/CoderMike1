@@ -6,7 +6,7 @@
 - 💻 My latest project [**Echo of Persia**](https://github.com/CoderMike1/echoes-of-persia)
 
 - 🌱 I’m currently learning **Node JS, Java**
-- 
+  
 - 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
