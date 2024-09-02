@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
 - 🔭 I’m currently working on [echo of persia](https://github.com/CoderMike1/echoes-of-persia)
-
 - 🌱 I’m currently learning **Node JS, Java**
-
 - 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
