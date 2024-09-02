@@ -2,7 +2,7 @@
 <h3 align="center">A ambitious backend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
-- 💻 My latest project (**Echo of Persia**)[https://github.com/CoderMike1/echoes-of-persia]
+- 🔭 I’m currently working on [echo of persia](https://github.com/CoderMike1/echoes-of-persia)
 
 - 🌱 I’m currently learning **Node JS, Java**
 
