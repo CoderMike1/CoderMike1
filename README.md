@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">A ambitious backend developer from Poland</h3>
+<h3 align="center">An ambitious backend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
 
