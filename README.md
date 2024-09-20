@@ -5,7 +5,7 @@
 
 - 🔧 Currently working on [**Fakturownia python API**](https://github.com/CoderMike1/fakturownia-python-api)
 
-- 💻 My latest project [**Weather App**]([https://github.com/CoderMike1/echoes-of-persia](https://github.com/CoderMike1/weather-app))
+- 💻 My latest project [**Weather App**](https://github.com/CoderMike1/weather-app)
 
 - 🌱 I’m currently learning **JavaScript**
   
