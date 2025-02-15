@@ -5,9 +5,9 @@
 
 - 🔧 Currently working on [**Fakturownia python API**](https://github.com/CoderMike1/fakturownia-python-api)
 
-- 💻 My latest project [**Weather App**](https://github.com/CoderMike1/weather-app)
+- 💻 My latest project [**Apartment price predictor**](https://github.com/CoderMike1/apartment_price_predictor)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
   
 - 💬 Ask me about **Python**
 
