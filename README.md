@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
 
-- 🔧 Currently working on [**Books Recommendations System**](https://github.com/CoderMike1/books-recommendations-system)
+- 🔧 Currently working on [**Books Recommendation System**](https://github.com/CoderMike1/books-recommendation-system)
 
 - 💻 My latest project [**Apartment Price Predictor**](https://github.com/CoderMike1/apartment_price_predictor)
 
