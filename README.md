@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
 
-- 🔧 Currently working on [**Fakturownia python API**](https://github.com/CoderMike1/fakturownia-python-api)
+- 🔧 Currently working on [**Books Recommendations System**](https://github.com/CoderMike1/books-recommendations-system)
 
-- 💻 My latest project [**Apartment price predictor**](https://github.com/CoderMike1/apartment_price_predictor)
+- 💻 My latest project [**Apartment Price Predictor**](https://github.com/CoderMike1/apartment_price_predictor)
 
 - 🌱 I’m currently learning **Machine Learning**
   
