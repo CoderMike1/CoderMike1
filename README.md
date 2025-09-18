@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codermike1&label=Profile%20views&color=0e75b6&style=flat" alt="codermike1" /> </p>
 
-- 🔧 Currently working on [**Currency center**](https://github.com/CoderMike1/currencyCenter)
+- 🔧 Currently working on [**Currency center**](https://github.com/CoderMike1/listera-app)
 
 - 💻 My latest project [**Sneaker Module**](https://github.com/CoderMike1/sneaker-module)
 
